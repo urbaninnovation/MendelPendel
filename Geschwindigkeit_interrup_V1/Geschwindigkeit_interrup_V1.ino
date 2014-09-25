@@ -1,4 +1,4 @@
-// N Schrum / Sven the real Goldschmidt
+// N little Schrum / Sven the real Goldschmidt
 // Steuerung des MendelPendels
 // September 2014
 

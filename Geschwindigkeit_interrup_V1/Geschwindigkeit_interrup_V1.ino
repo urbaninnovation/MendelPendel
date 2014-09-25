@@ -1,11 +1,11 @@
-// N Schrum / Sven the real Goldschmidt
+// N. Schrum / S. the real Goldschmidt
 // Steuerung des MendelPendels
 // September 2014
 
 
 //Zeitmessung
 
-int hallSensor_1= 0;
+int hallSensor_1= 0;  /USING A SS495A Hallsensor
 int hallSensor_2= 1;
 
 volatile unsigned long start_1 =0, start_2 =0, ende, richtung;

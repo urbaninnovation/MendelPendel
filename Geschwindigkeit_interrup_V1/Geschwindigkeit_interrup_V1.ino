@@ -1,4 +1,4 @@
-// N. Schrum / S. the real Goldschmidt
+// N. Schrum / S. the only gschmidt
 // Steuerung des MendelPendels
 // September 2014
 
